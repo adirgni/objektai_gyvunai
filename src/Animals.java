@@ -34,14 +34,6 @@ public class Animals {
         this.male = male;
     }
 
-//    public static void menu() {
-//        System.out.println("Pasirinkite is meniu, ka norite padaryti:");
-//        System.out.println(" Iveskite 1, jei norite atspausdinti gyvunu sarasa.");
-//        System.out.println(" Iveskite 2, jei norite prideti papildoma gyvuna prie saraso.");
-//        System.out.println(" Iveskite 3, jei norite isimti gyvuna is saraso.");
-//        System.out.println(" Iveskite 4, jei norite pakeisti gyvuna sarase.");
-//        System.out.println(" Iveskite 5, jei norite baigti darba. ");
-//    }
 
     public static void animalsList(ArrayList<Animals> arr) {
         System.out.println("Gyvunu sarasas:");
