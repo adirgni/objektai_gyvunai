@@ -6,6 +6,8 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
 
+        // nepilnai sudetos apsaugos
+
         System.out.println();
         System.out.println("Sveiki atvyke i virtualu Zoologijos soda !");
         System.out.println();
