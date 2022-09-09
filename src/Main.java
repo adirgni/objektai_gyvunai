@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         // nepilnai sudetos apsaugos
+        // shouldcontinue veikia, bet negerai veikia Animals - remove dalyje
 
         System.out.println();
         System.out.println("Sveiki atvyke i virtualu Zoologijos soda !");
